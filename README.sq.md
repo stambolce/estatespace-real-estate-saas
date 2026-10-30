@@ -1,26 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/estatespace-hero.svg" alt="EstateSpace — white-label real estate website platform by PROCESS IN" width="100%" />
+# EstateSpace
+
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/estatespace-hero.svg" alt="EstateSpace — prezantim vizual i produktit" width="100%" />
+
+**Faqe pronash që i përket agjencisë suaj.**
 
 [![Website](https://img.shields.io/badge/ESTATESPACE.MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://estatespace.mk)
 [![Platform](https://img.shields.io/badge/REAL_ESTATE-WHITE_LABEL_SAAS-17191D?style=for-the-badge)](https://estatespace.mk)
 [![Producer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Faqe pronash që i përket agjencisë suaj.
-
-**Faqe pronash që i përket agjencisë suaj.**
+**LIVE**
 
 </div>
-
----
 
 ## Prania digjitale e agjencisë suaj
 
@@ -76,7 +70,7 @@ Ndërtues faqesh imobiliare, SaaS white-label, faqe listimesh, faqe agjencie, pl
 |---|---|
 | Produkti | EstateSpace |
 | Faqja zyrtare | [estatespace.mk](https://estatespace.mk) |
-| Kategoria | SaaS për faqe agjencish imobiliare |
+| Kategoria | SaaS white-label për faqe agjencish imobiliare |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

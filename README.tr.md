@@ -1,26 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/estatespace-hero.svg" alt="EstateSpace — white-label real estate website platform by PROCESS IN" width="100%" />
+# EstateSpace
+
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/estatespace-hero.svg" alt="EstateSpace — ürün görsel sunumu" width="100%" />
+
+**Ajansınıza ait bir emlak sitesi.**
 
 [![Website](https://img.shields.io/badge/ESTATESPACE.MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://estatespace.mk)
 [![Platform](https://img.shields.io/badge/REAL_ESTATE-WHITE_LABEL_SAAS-17191D?style=for-the-badge)](https://estatespace.mk)
 [![Producer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Ajansınıza ait bir emlak sitesi.
-
-**Ajansınıza ait bir emlak sitesi.**
+**LIVE**
 
 </div>
-
----
 
 ## Ajansınızın dijital varlığı
 
@@ -76,7 +70,7 @@ Emlak sitesi oluşturucu, white-label emlak SaaS, ilan sitesi, ajans sitesi, ço
 |---|---|
 | Ürün | EstateSpace |
 | Resmî site | [estatespace.mk](https://estatespace.mk) |
-| Kategori | Emlak ajansı web sitesi SaaS |
+| Kategori | Ajans markalı emlak sitesi SaaS |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
